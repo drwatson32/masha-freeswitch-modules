@@ -35,7 +35,7 @@ RUN cp -r /usr/local/src/drachtio-freeswitch-modules/modules/mod_audio_fork /usr
 COPY ./*.patch /
 COPY ./*.grpc /
 COPY ./vars_diff.xml /
-COPY ./mod_speechpro_transcribe /usr/local/src/freeswitch/src/mod/applications/mod_speechpro_transcribe 
+COPY ./mod_yandex_transcribe /usr/local/src/freeswitch/src/mod/applications/mod_yandex_transcribe 
 
 RUN cd /usr/local/src/freeswitch \
     && mv /configure.ac.patch . \

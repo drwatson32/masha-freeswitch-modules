@@ -28,7 +28,7 @@
 +		src/mod/applications/mod_google_tts/Makefile
 +		src/mod/applications/mod_google_transcribe/Makefile
 +		src/mod/applications/mod_dialogflow/Makefile
-+		src/mod/applications/mod_speechpro_transcribe/Makefile
++		src/mod/applications/mod_yandex_transcribe/Makefile
  		src/mod/applications/mod_abstraction/Makefile
  		src/mod/applications/mod_avmd/Makefile
  		src/mod/applications/mod_bert/Makefile

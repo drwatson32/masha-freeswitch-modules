@@ -5,7 +5,7 @@
 +applications/mod_google_tts
 +applications/mod_google_transcribe
 +applications/mod_dialogflow
-+applications/mod_speechpro_transcribe
++applications/mod_yandex_transcribe
  #applications/mod_abstraction
  #applications/mod_av
  #applications/mod_avmd
